@@ -13,16 +13,16 @@ require 'TwistOAuth-master/build/TwistOAuth.phar';
 date_default_timezone_set('Asia/Tokyo');
 
 //APIキー、アクセストークンを設定して認証を通す
-const CONSUMER_KEY = "48IFO0a99MrqsW8xZ3AEr9xYx";
-const CONSUMER_SECRET = "uY3EAhQeuBqstXR71X4N20JnzMHPdvERTMnuXZrCweoO0z6UN8";
-const ACCESS_TOKEN = "1002032671298502658-0avh2JUCW0ue3dnjvrr2F4DUcci8iQ";
-const ACCESS_TOKEN_SECRET = "4SIEH9mUzDS9YMY8Gp4idpMG6Y1870DYyhAVlDKK9oS5n";
+const CONSUMER_KEY = "XXXXXXXXXXXXXXXXXXXXXXXx";
+const CONSUMER_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXx";
+const ACCESS_TOKEN = "XXXXXXXXXXXXXXXXXXXXxx";
+const ACCESS_TOKEN_SECRET = "XXXXXXXXXXXXXXXXXXXXXx";
 
-//grant all on twitter.* to 'twitter'@'localhost' identified by '1234pswd';
+
 //localhost == 127.0.0.1
 const LOCALHOST = "127.0.0.1";
-const USER_NAME = "twitter";
-const USER_PASS = "1234pswd";
+const USER_NAME = "XXXXXXXx";
+const USER_PASS = "XXXXXXx";
 const DB_NAME = "twitter";
 
 
